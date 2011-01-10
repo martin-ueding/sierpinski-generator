@@ -1,5 +1,3 @@
-package de.martin_ueding.mathematik.mkvm;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
@@ -8,8 +6,6 @@ import javax.swing.JPanel;
  * hinein. Dabei wird das Bild immer genauer und ist selbstähnlich.
  *
  * In der aktuellen Konfiguration ensteht das Sierpinski-Dreieck.
- *
- * Copyright: Martin Ueding
  */
 
 public class Mvkm {

@@ -1,5 +1,3 @@
-package de.martin_ueding.mathematik.mkvm;
-
 import java.awt.Color;
 import java.awt.Graphics;
 
@@ -8,8 +6,6 @@ import javax.swing.JPanel;
 /**
  * Dieses Panel zeigt das von MVKM übergebene Bild an. Dabei handelt es sich um ein Array
  * von Booleans, das S/W ausgegeben wird.
- *
- * Copyright: Martin Ueding
  */
 
 public class FrakPanel extends JPanel {
