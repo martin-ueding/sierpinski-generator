@@ -1,3 +1,5 @@
+// Copyright (c) Martin Ueding <dev@martin-ueding.de>
+
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 

@@ -1,3 +1,5 @@
+// Copyright (c) Martin Ueding <dev@martin-ueding.de>
+
 import java.awt.Color;
 import java.awt.Graphics;
 
