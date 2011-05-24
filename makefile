@@ -5,3 +5,6 @@ sierpinskigen.jar: Mvkm.class
 
 Mvkm.class: *.java
 	javac Mvkm.java
+
+clean:
+	rm -rf *.class *.jar
