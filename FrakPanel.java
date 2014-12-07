@@ -6,7 +6,7 @@ import java.awt.Graphics;
 import javax.swing.JPanel;
 
 /**
- * Dieses Panel zeigt das von MVKM übergebene Bild an. Dabei handelt es sich um ein Array
+ * Dieses Panel zeigt das von MVKM Ã¼bergebene Bild an. Dabei handelt es sich um ein Array
  * von Booleans, das S/W ausgegeben wird.
  */
 

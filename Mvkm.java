@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 
 /**
  * Die Mehrfach-Verkleinerungs-Kopier-Maschine kopiert ihr Bild mehrmals verkleinert in sich selbst
- * hinein. Dabei wird das Bild immer genauer und ist selbst‰hnlich.
+ * hinein. Dabei wird das Bild immer genauer und ist selbst√§hnlich.
  *
  * In der aktuellen Konfiguration ensteht das Sierpinski-Dreieck.
  */
@@ -35,7 +35,7 @@ public class Mvkm {
 		for (stufe = 0; stufe < lastStufe; stufe++) {	// Solange wir noch tiefer sollen:
 			System.out.println("Stufe " + (stufe +1));
 			
-			neuBreite = (int) Math.pow(2, stufe) * fak;	// Neue Grˆﬂe ist hier doppelt so groﬂ
+			neuBreite = (int) Math.pow(2, stufe) * fak;	// Neue Gr√∂√üe ist hier doppelt so gro√ü
 			
 			neu = new boolean[neuBreite][neuBreite];	// Ein neues Feld
 			
